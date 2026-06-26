@@ -67,9 +67,8 @@ export function About() {
               or grab my resume:
                     <a href="resume_gus_class.docx"> WORD</a> | <a href="resume_gus_class.docx.pdf">PDF</a>.
             </p>
-            <p>
-                  To learn more about what I have learned about social networks and apps, 
-                  <a href="https://gusclass.com/gpbpdeck2013/template.html#1">check out this Google I/O presentation</a>.
+            <p className="mb-6">
+              Some highlights of my work can be found using the site navigation.
             </p>
             
           </div>
