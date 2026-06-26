@@ -38,10 +38,11 @@ export function Speaking() {
                 <span className="inline-block px-3 py-1 bg-slate-100 text-slate-600 text-sm font-medium rounded-full">
                   Featured Talk
                 </span>
+				<a href="https://www.youtube.com/watch?v=E5vv7_G4tcE/">
                 <ExternalLink
                   size={20}
                   className="text-slate-400 group-hover:text-blue-600 transition-colors" 
-                  href="https://www.youtube.com/watch?v=E5vv7_G4tcE/" />
+                   /></a>
                 
               </div>
               <h3 className="text-2xl font-serif mb-3">
