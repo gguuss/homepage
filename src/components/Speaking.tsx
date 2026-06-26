@@ -45,7 +45,7 @@ export function Speaking() {
                 
               </div>
               <h3 className="text-2xl font-serif mb-3">
-                The adaptation of technology to society
+                Best practices for Sign-in
               </h3>
               <p className="text-slate-500 mb-6 flex items-center gap-2">
                 <span className="font-medium text-slate-700">UCSB</span>
@@ -53,7 +53,7 @@ export function Speaking() {
                 <span>Guest Lecture</span>
               </p>
               <p className="text-slate-600 leading-relaxed">
-                Best practices talk for Google+ Sign-In focused on UX and user experience.
+                Best practices talk for Google Sign-In focused on UX and user experience.
               </p>
             </div>
 
