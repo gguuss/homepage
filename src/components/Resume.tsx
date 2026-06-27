@@ -3,7 +3,7 @@ import { motion } from 'framer-motion';
 import { FileText, Download, GraduationCap, Briefcase } from 'lucide-react';
 const experience = [
 {
-  role: 'Software Division Lead',
+  role: 'Head of Software',
   company: 'Stealth Startup',
   period: '2022-2024',
   description:
