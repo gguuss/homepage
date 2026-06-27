@@ -1,6 +1,9 @@
 import React from 'react';
 import { motion } from 'framer-motion';
 import { FileText, Download, GraduationCap, Briefcase } from 'lucide-react';
+
+import { FaLinkedin } from "react-icons/fa";
+
 const experience = [
 {
   role: 'Head of Software',
@@ -87,7 +90,7 @@ export function Resume() {
               href="https://www.linkedin.com/in/gclassy/"
               className="inline-flex align-right items-center gap-2 px-6 py-3 bg-white border border-slate-200 hover:border-slate-300 hover:bg-slate-50 text-slate-800 font-medium rounded-full transition-all shadow-sm">
               
-              <Download size={18} />
+              <FaLinkedin size={18} />
               LinkedIn
             </a>
 	    </div>
