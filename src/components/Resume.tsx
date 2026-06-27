@@ -75,13 +75,22 @@ export function Resume() {
               </div>
               <h2 className="text-3xl md:text-4xl font-serif m-0">Resume</h2>
             </div>
+	    <div>
             <a
               href="resume_gus_class.docx.pdf"
-              className="inline-flex items-center gap-2 px-6 py-3 bg-white border border-slate-200 hover:border-slate-300 hover:bg-slate-50 text-slate-800 font-medium rounded-full transition-all shadow-sm">
+              className="inline-flex align-right gap-2 px-6 py-3 bg-white border border-slate-200 hover:border-slate-300 hover:bg-slate-50 text-slate-800 font-medium rounded-full transition-all shadow-sm">
               
               <Download size={18} />
               Download PDF
             </a>
+            <a
+              href="https://www.linkedin.com/in/gclassy/"
+              className="inline-flex align-right items-center gap-2 px-6 py-3 bg-white border border-slate-200 hover:border-slate-300 hover:bg-slate-50 text-slate-800 font-medium rounded-full transition-all shadow-sm">
+              
+              <Download size={18} />
+              LinkedIn
+            </a>
+	    </div>
           </div>
 
           <div className="grid md:grid-cols-2 gap-16">
