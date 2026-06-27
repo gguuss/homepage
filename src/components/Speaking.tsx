@@ -49,9 +49,9 @@ export function Speaking() {
                 Best practices for Sign-in
               </h3>
               <p className="text-slate-500 mb-6 flex items-center gap-2">
-                <span className="font-medium text-slate-700">UCSB</span>
+                <span className="font-medium text-slate-700">Moscone Center, San Francisco</span>
                 <span>•</span>
-                <span>Guest Lecture</span>
+                <span>Dev Talk</span>
               </p>
               <p className="text-slate-600 leading-relaxed">
                 Best practices talk for Google Sign-In focused on UX and user experience.
@@ -67,8 +67,8 @@ export function Speaking() {
                 More Talks & Presentations
               </h3>
               <p className="text-slate-500 text-sm max-w-xs">
-                I regularly speak about software development, developer
-                relations, and technology trends.
+                I speak about software development, Developer
+                Relations, programming, art, and technology trends.
               </p>
             </div>
           </div>

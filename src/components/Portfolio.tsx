@@ -6,7 +6,7 @@ const portfolioItems = [
   title: 'Cloud ML Samples',
   role: 'Developer Programs Engineer',
   description:
-  'Shipped and maintained samples code in various programming languages for Google Cloud ML APIs for domains like Vision, Speech, and Visio.',
+  'Shipped and maintained sample code and libraries in various programming languages for Google Cloud ML APIs.',
   icon: <Layout size={24} />,
   tags: ['.NET', 'C#', 'Speaking', "Node.js", 'Python', 'Java', 'Go', 'Ruby', 'PHP']  
 },

@@ -32,7 +32,7 @@ const projects = [
 {
   name: 'Rainbow Smale',
   description:
-  'Embedded LED Server with One-button interface, device-to-device mesh using AP-AP networks, and mobile phone sensor / GPS bridge.',
+  'Embedded LED Server with One-button interface, device-to-device mesh using AP-AP networks, and mobile phone sensor / GPS bridge in a SPA running on Espressif.',
   language: 'C, Arduino, ESP32',
   stars: 112,
   forks: 15,

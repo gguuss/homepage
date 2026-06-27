@@ -7,14 +7,14 @@ const experience = [
   company: 'Stealth Startup',
   period: '2022-2024',
   description:
-  'Lead design of system Cloud architecture, orchestration, and embedded system integration. Built and maintained CI/CD pipelines. Directed and integrated the work of the embedded, PCB, OS, and backend teams.'
+  'Lead design of system Cloud architecture, edge device orchestration, and embedded system integrations. Built and maintained CI/CD pipelines. Directed and integrated the work of the embedded, PCB, OS, and backend teams.'
 },
   {
   role: 'Senior Developer Advocate',
   company: 'Google',
   period: '2012 - 2022',
   description:
-  'Lead developer relations for Cloud IoT Core, Identity, and internal products. Created technical content, spoke at major conferences, and gathered developer feedback to influence product roadmaps.'
+  'Lead developer relations for Cloud IoT Core, Identity, and internal products. Created technical content, spoke at major conferences, and gathered developer feedback to influence product roadmaps. Lead an internal conference during Covid and emceed from my home studio. Mentored peers and participated in recruitment, hiring, and promotion activities cross-company.'
 },
 {
   role: 'Programming Writer',
@@ -44,7 +44,7 @@ const education = [
   school: 'University of Washington',
   period: '2003',
   description:
-  'Core focus on software architecture, algorithms, embedded systems, distributed systems, and systems design.'
+  'Core focus on software architecture, algorithms, embedded systems, distributed systems, and systems design. Three capstone projects in Embedded programming and Distributed systems.'
 }];
 
 export function Resume() {
